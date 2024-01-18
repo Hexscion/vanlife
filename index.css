@@ -783,8 +783,13 @@ img.graph {
         font-size: 1.25rem;
     }
 
-    .home-container a, .home-container h1, .home-container p {
-        width: 45%;
+    .home-container h1, .home-container p {
+        width: 740px;
+    }
+
+    .home-container a {
+        width: 300px;
+        padding: 1rem 0.5rem;
     }
 
     .about-page-container {
